@@ -1,0 +1,26 @@
+== Pachinko (tábua de Galton), 11 fileiras de pinos ==
+  pinos com 50% para a direita: 50.0% das bolinhas à direita (10 mil sorteadas: 50.6%)
+  pinos com 60% para a direita: 75.3% das bolinhas à direita (10 mil sorteadas: 76.1%)
+
+== A regra de cada eleição (taxa de conversão do Tarcísio) aplicada ao 1º turno de 2026 ==
+  2002: taxa PT   52% | adversário   53% | PT ficou com  49% do crescimento | Flávio teria 51.0% (61.0 mi × 58.7 mi)
+  2006: taxa PT  124% | adversário  -26% | PT ficou com 126% do crescimento | Flávio teria 45.1% (53.7 mi × 65.4 mi)
+  2010: taxa PT   39% | adversário   51% | PT ficou com  43% do crescimento | Flávio teria 51.4% (60.8 mi × 57.5 mi)
+  2014: taxa PT   43% | adversário   62% | PT ficou com  41% do crescimento | Flávio teria 51.7% (61.9 mi × 57.9 mi)
+  2018: taxa PT   59% | adversário   32% | PT ficou com  65% do crescimento | Flávio teria 49.9% (59.1 mi × 59.4 mi)
+  2022: taxa PT   31% | adversário   72% | PT ficou com  30% do crescimento | Flávio teria 52.5% (62.8 mi × 56.8 mi)
+  2026 real: taxa Lula 111% | Flávio 40% | Lula ficou com 74% do crescimento | Flávio teve 48.2%
+
+== O sorteio do Tarcísio: regra de 2022 fixa, fator aleatório normal (média 1) ==
+  fator com desvio de 10%: 90% entre 52.0% e 53.0%, mediana 52.5%; Lula vence em 0.00%
+  fator com desvio de 15%: 90% entre 51.8% e 53.2%, mediana 52.5%; Lula vence em 0.00%
+  fator com desvio de 20%: 90% entre 51.5% e 53.5%, mediana 52.5%; Lula vence em 0.00%
+  fator com desvio de 30%: 90% entre 51.0% e 53.9%, mediana 52.5%; Lula vence em 0.30%
+  Para chegar ao resultado real, o fator do Lula teria de valer 3.6 e o do Flávio 0.55
+
+== Monte Carlo com a premissa também sorteada (uma das seis eleições de 2002 a 2022) ==
+  90% entre 44.8% e 52.7%; Lula vence em 28% dos sorteios; resultado real: 48,2%
+
+== Carteira de 1.000 processos de R$ 40 mil, 30% de chance de condenação cada ==
+  independentes: média R$ 12.0 mi; 9 em 10 cenários entre R$ 11.0 e 12.9 mi
+  uma tese comum (cai em 30%; aí 95% de condenação, senão 2%): média R$ 12.1 mi; cenários entre R$ 10 e 14 mi: 0.0%; perto de R$ 1 mi: 70%; perto de R$ 38 mi: 30%
