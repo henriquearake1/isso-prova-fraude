@@ -1,0 +1,161 @@
+{
+  "dados": {
+    "secoes": 499205,
+    "votos_validos": 124082273,
+    "mediana": 255.0,
+    "p5": 156.0,
+    "p95": 323.0
+  },
+  "real": {
+    "secoes_L": {
+      "n": 499201,
+      "chi2": 297063.7343461914,
+      "p": 0.0,
+      "mad": 0.07914111182153977,
+      "pct_digito_1": 0.6080937337865909,
+      "acusa_chi2": true,
+      "acusa_mad": true
+    },
+    "secoes_F": {
+      "n": 499099,
+      "chi2": 273599.48164984584,
+      "p": 0.0,
+      "mad": 0.07480570637702239,
+      "pct_digito_1": 0.6187970723243285,
+      "acusa_chi2": true,
+      "acusa_mad": true
+    },
+    "municipios_L": {
+      "n": 5571,
+      "chi2": 8.105330770523464,
+      "p": 0.423249367446905,
+      "mad": 0.003590371104266153,
+      "pct_digito_1": 0.30748519116855144,
+      "acusa_chi2": false,
+      "acusa_mad": false
+    },
+    "municipios_F": {
+      "n": 5571,
+      "chi2": 80.40293973621156,
+      "p": 4.055921802866625e-14,
+      "mad": 0.01160603482146675,
+      "pct_digito_1": 0.34518039849219173,
+      "acusa_chi2": true,
+      "acusa_mad": false
+    }
+  },
+  "simulacoes": {
+    "municipio": {
+      "n_sim": 10000,
+      "L": {
+        "acusa_chi2": 10000,
+        "acusa_mad": 10000,
+        "chi2_min": 332297.3591357903,
+        "chi2_mediana": 333474.87252599624,
+        "p_max": 0.0,
+        "mad_min": 0.08405226991864713,
+        "mad_mediana": 0.08426925833002272,
+        "pct_digito_1_min": 0.6252261095141275,
+        "pct_digito_1_mediana": 0.6264680842539638,
+        "pct_digito_1_max": 0.6276592334997316
+      },
+      "F": {
+        "acusa_chi2": 10000,
+        "acusa_mad": 10000,
+        "chi2_min": 302526.292216141,
+        "chi2_mediana": 303724.58831694594,
+        "p_max": 0.0,
+        "mad_min": 0.07756405963925977,
+        "mad_mediana": 0.07773602380639458,
+        "pct_digito_1_min": 0.6389632294613024,
+        "pct_digito_1_mediana": 0.6399655452168949,
+        "pct_digito_1_max": 0.6409323643240038
+      },
+      "acusa_algum": 10000
+    },
+    "moeda": {
+      "n_sim": 1000,
+      "L": {
+        "acusa_chi2": 1000,
+        "acusa_mad": 1000,
+        "chi2_min": 709648.3319043986,
+        "chi2_mediana": 710866.722771442,
+        "p_max": 0.0,
+        "mad_min": 0.12138854242210467,
+        "mad_mediana": 0.12157995788379988,
+        "pct_digito_1_min": 0.8246832463617151,
+        "pct_digito_1_mediana": 0.8255295920513617,
+        "pct_digito_1_max": 0.8262777816728598
+      },
+      "F": {
+        "acusa_chi2": 1000,
+        "acusa_mad": 1000,
+        "chi2_min": 709522.8503620301,
+        "chi2_mediana": 710900.6479995186,
+        "p_max": 0.0,
+        "mad_min": 0.12144997343074174,
+        "mad_mediana": 0.12158062561215463,
+        "pct_digito_1_min": 0.8247573642090924,
+        "pct_digito_1_mediana": 0.8255346000140223,
+        "pct_digito_1_max": 0.8262717721176671
+      },
+      "acusa_algum": 1000
+    },
+    "municipio+variacao": {
+      "n_sim": 1000,
+      "L": {
+        "acusa_chi2": 1000,
+        "acusa_mad": 1000,
+        "chi2_min": 305883.41523468343,
+        "chi2_mediana": 307466.0038826486,
+        "p_max": 0.0,
+        "mad_min": 0.08021659236892235,
+        "mad_mediana": 0.0805166874748409,
+        "pct_digito_1_min": 0.6134033112649112,
+        "pct_digito_1_mediana": 0.6147450593891022,
+        "pct_digito_1_max": 0.6161757193938362
+      },
+      "F": {
+        "acusa_chi2": 1000,
+        "acusa_mad": 1000,
+        "chi2_min": 280115.9185772583,
+        "chi2_mediana": 281540.0848559119,
+        "p_max": 0.0,
+        "mad_min": 0.07511779367024511,
+        "mad_mediana": 0.07534076978167467,
+        "pct_digito_1_min": 0.6244000448714353,
+        "pct_digito_1_mediana": 0.6255238339436383,
+        "pct_digito_1_max": 0.626698958139274
+      },
+      "acusa_algum": 1000
+    },
+    "com_fraude_1pct_secoes_20pct_votos": {
+      "n_sim": 1000,
+      "L": {
+        "acusa_chi2": 1000,
+        "acusa_mad": 1000,
+        "chi2_min": 333257.7682408132,
+        "chi2_mediana": 334426.70335746044,
+        "p_max": 0.0,
+        "mad_min": 0.08414862207393109,
+        "mad_mediana": 0.08436402625055059,
+        "pct_digito_1_min": 0.6268599610580043,
+        "pct_digito_1_mediana": 0.6277169531059249,
+        "pct_digito_1_max": 0.6287890321391656
+      },
+      "F": {
+        "acusa_chi2": 1000,
+        "acusa_mad": 1000,
+        "chi2_min": 300788.6970468998,
+        "chi2_mediana": 302087.35308376735,
+        "p_max": 0.0,
+        "mad_min": 0.07739592749770823,
+        "mad_mediana": 0.07755935165374361,
+        "pct_digito_1_min": 0.6375409652166248,
+        "pct_digito_1_mediana": 0.6386309777791354,
+        "pct_digito_1_max": 0.6394913492106418
+      },
+      "acusa_algum": 1000
+    }
+  }
+}

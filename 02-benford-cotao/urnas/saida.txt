@@ -1,0 +1,11 @@
+Seções: 499,205 | votos válidos: 124,082,273 | mediana por seção: 255 | 5% a 95%: 156 a 323
+REAL secoes_L     : 1º dígito = 1 em 60.8% | chi2 297,064 | p 0 | MAD 0.0791
+REAL secoes_F     : 1º dígito = 1 em 61.9% | chi2 273,599 | p 0 | MAD 0.0748
+REAL municipios_L : 1º dígito = 1 em 30.7% | chi2 8 | p 0.42 | MAD 0.0036
+REAL municipios_F : 1º dígito = 1 em 34.5% | chi2 80 | p 4.1e-14 | MAD 0.0116
+municipio                           : 10,000 de 10,000 acusadas (Lula, qui-quadrado) | 10,000 (Flávio) | MAD>0,015: 10,000 | maior p: 0.0e+00 | 1º dígito = 1 entre 62.5% e 62.8% [628s]
+moeda                               : 1,000 de 1,000 acusadas (Lula, qui-quadrado) | 1,000 (Flávio) | MAD>0,015: 1,000 | maior p: 0.0e+00 | 1º dígito = 1 entre 82.5% e 82.6% [674s]
+municipio+variacao                  : 1,000 de 1,000 acusadas (Lula, qui-quadrado) | 1,000 (Flávio) | MAD>0,015: 1,000 | maior p: 0.0e+00 | 1º dígito = 1 entre 61.3% e 61.6% [767s]
+com_fraude_1pct_secoes_20pct_votos  : 1,000 de 1,000 acusadas (Lula, qui-quadrado) | 1,000 (Flávio) | MAD>0,015: 1,000 | maior p: 0.0e+00 | 1º dígito = 1 entre 62.7% e 62.9% [839s]
+
+Resultado salvo em resultado_monte_carlo.json

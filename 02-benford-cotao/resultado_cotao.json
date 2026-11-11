@@ -1,0 +1,1141 @@
+{
+  "arquivo": "Ano-2026.csv.zip",
+  "linhas": 123573,
+  "meses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "linhas_por_mes": {
+    "1": 10063,
+    "2": 13051,
+    "3": 16608,
+    "4": 15335,
+    "5": 16422,
+    "6": 14577,
+    "7": 14088,
+    "8": 10343,
+    "9": 6433,
+    "10": 6235,
+    "11": 418
+  },
+  "soma_vlrDocumento": 155278194.69,
+  "soma_vlrLiquido": 151097679.02,
+  "fora_do_teste": {
+    "abaixo_de_10": 1712,
+    "zero_ou_negativo": 10
+  },
+  "deputados": 577,
+  "benford_pct": [
+    30.1,
+    17.6,
+    12.5,
+    9.7,
+    7.9,
+    6.7,
+    5.8,
+    5.1,
+    4.6
+  ],
+  "base_inteira": {
+    "n": 121851,
+    "contagem": [
+      34102,
+      34684,
+      18958,
+      10565,
+      8104,
+      5132,
+      3490,
+      3717,
+      3099
+    ],
+    "pct": [
+      28.0,
+      28.5,
+      15.6,
+      8.7,
+      6.7,
+      4.2,
+      2.9,
+      3.1,
+      2.5
+    ],
+    "chi2": 14677.0,
+    "p": 0.0,
+    "mad": 0.0309,
+    "nigrini": "não conformidade"
+  },
+  "por_categoria": [
+    {
+      "n": 58375,
+      "contagem": [
+        15242,
+        23949,
+        10376,
+        4401,
+        2318,
+        590,
+        486,
+        486,
+        527
+      ],
+      "pct": [
+        26.1,
+        41.0,
+        17.8,
+        7.5,
+        4.0,
+        1.0,
+        0.8,
+        0.8,
+        0.9
+      ],
+      "chi2": 30332.2,
+      "p": 0.0,
+      "mad": 0.0638,
+      "nigrini": "não conformidade",
+      "categoria": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "soma": 19408393.49
+    },
+    {
+      "n": 14818,
+      "contagem": [
+        3765,
+        2185,
+        2053,
+        1406,
+        1316,
+        1279,
+        896,
+        1172,
+        746
+      ],
+      "pct": [
+        25.4,
+        14.7,
+        13.9,
+        9.5,
+        8.9,
+        8.6,
+        6.0,
+        7.9,
+        5.0
+      ],
+      "chi2": 535.0,
+      "p": 2.1767778100028404e-110,
+      "mad": 0.0172,
+      "nigrini": "não conformidade",
+      "categoria": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "soma": 27467101.8
+    },
+    {
+      "n": 10601,
+      "contagem": [
+        4192,
+        1903,
+        1382,
+        845,
+        701,
+        510,
+        401,
+        311,
+        356
+      ],
+      "pct": [
+        39.5,
+        18.0,
+        13.0,
+        8.0,
+        6.6,
+        4.8,
+        3.8,
+        2.9,
+        3.4
+      ],
+      "chi2": 635.7,
+      "p": 4.820208295493959e-132,
+      "mad": 0.0229,
+      "nigrini": "não conformidade",
+      "categoria": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "soma": 915638.69
+    },
+    {
+      "n": 8961,
+      "contagem": [
+        3053,
+        1480,
+        1165,
+        569,
+        1013,
+        629,
+        350,
+        443,
+        259
+      ],
+      "pct": [
+        34.1,
+        16.5,
+        13.0,
+        6.3,
+        11.3,
+        7.0,
+        3.9,
+        4.9,
+        2.9
+      ],
+      "chi2": 400.7,
+      "p": 1.306305012476861e-81,
+      "mad": 0.0182,
+      "nigrini": "não conformidade",
+      "categoria": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "soma": 56788577.65
+    },
+    {
+      "n": 8702,
+      "contagem": [
+        2263,
+        2489,
+        1480,
+        860,
+        553,
+        367,
+        276,
+        232,
+        182
+      ],
+      "pct": [
+        26.0,
+        28.6,
+        17.0,
+        9.9,
+        6.4,
+        4.2,
+        3.2,
+        2.7,
+        2.1
+      ],
+      "chi2": 1217.6,
+      "p": 1.4730832646224513e-257,
+      "mad": 0.0349,
+      "nigrini": "não conformidade",
+      "categoria": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+      "soma": 4015361.26
+    },
+    {
+      "n": 6271,
+      "contagem": [
+        1604,
+        633,
+        630,
+        835,
+        803,
+        578,
+        411,
+        382,
+        395
+      ],
+      "pct": [
+        25.6,
+        10.1,
+        10.0,
+        13.3,
+        12.8,
+        9.2,
+        6.6,
+        6.1,
+        6.3
+      ],
+      "chi2": 666.1,
+      "p": 1.410044731252653e-138,
+      "mad": 0.0322,
+      "nigrini": "não conformidade",
+      "categoria": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "soma": 991661.2
+    },
+    {
+      "n": 6159,
+      "contagem": [
+        2197,
+        1036,
+        840,
+        552,
+        597,
+        357,
+        170,
+        113,
+        297
+      ],
+      "pct": [
+        35.7,
+        16.8,
+        13.6,
+        9.0,
+        9.7,
+        5.8,
+        2.8,
+        1.8,
+        4.8
+      ],
+      "chi2": 335.9,
+      "p": 9.431615706942723e-68,
+      "mad": 0.0194,
+      "nigrini": "não conformidade",
+      "categoria": "TELEFONIA",
+      "soma": 2276742.79
+    },
+    {
+      "n": 5561,
+      "contagem": [
+        1190,
+        430,
+        653,
+        817,
+        690,
+        686,
+        416,
+        392,
+        287
+      ],
+      "pct": [
+        21.4,
+        7.7,
+        11.7,
+        14.7,
+        12.4,
+        12.3,
+        7.5,
+        7.0,
+        5.2
+      ],
+      "chi2": 1071.9,
+      "p": 4.563783912425377e-226,
+      "mad": 0.043,
+      "nigrini": "não conformidade",
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "soma": 36919748.16
+    },
+    {
+      "n": 560,
+      "contagem": [
+        203,
+        143,
+        77,
+        56,
+        24,
+        13,
+        12,
+        20,
+        12
+      ],
+      "pct": [
+        36.2,
+        25.5,
+        13.8,
+        10.0,
+        4.3,
+        2.3,
+        2.1,
+        3.6,
+        2.1
+      ],
+      "chi2": 75.9,
+      "p": 3.3093363362810454e-13,
+      "mad": 0.0348,
+      "nigrini": "não conformidade",
+      "categoria": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+      "soma": 121819.89
+    },
+    {
+      "n": 550,
+      "contagem": [
+        116,
+        178,
+        98,
+        81,
+        1,
+        28,
+        21,
+        11,
+        16
+      ],
+      "pct": [
+        21.1,
+        32.4,
+        17.8,
+        14.7,
+        0.2,
+        5.1,
+        3.8,
+        2.0,
+        2.9
+      ],
+      "chi2": 170.9,
+      "p": 8.396873178873206e-33,
+      "mad": 0.0558,
+      "nigrini": "não conformidade",
+      "categoria": "COMPLEMENTAÇÃO DO AUXÍLIO-MORADIA",
+      "soma": 1318190.6
+    },
+    {
+      "n": 389,
+      "contagem": [
+        70,
+        87,
+        53,
+        35,
+        10,
+        14,
+        7,
+        113,
+        0
+      ],
+      "pct": [
+        18.0,
+        22.4,
+        13.6,
+        9.0,
+        2.6,
+        3.6,
+        1.8,
+        29.0,
+        0.0
+      ],
+      "chi2": 508.3,
+      "p": 1.1704078999677288e-104,
+      "mad": 0.0663,
+      "nigrini": "não conformidade",
+      "categoria": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+      "soma": 1144745.98
+    },
+    {
+      "n": 224,
+      "contagem": [
+        56,
+        22,
+        30,
+        23,
+        24,
+        24,
+        16,
+        20,
+        9
+      ],
+      "pct": [
+        25.0,
+        9.8,
+        13.4,
+        10.3,
+        10.7,
+        10.7,
+        7.1,
+        8.9,
+        4.0
+      ],
+      "chi2": 24.7,
+      "p": 0.0017406206684840385,
+      "mad": 0.0299,
+      "nigrini": "não conformidade",
+      "categoria": "SERVIÇOS POSTAIS",
+      "soma": 101780.04
+    },
+    {
+      "n": 203,
+      "contagem": [
+        47,
+        53,
+        62,
+        16,
+        8,
+        7,
+        4,
+        3,
+        3
+      ],
+      "pct": [
+        23.2,
+        26.1,
+        30.5,
+        7.9,
+        3.9,
+        3.4,
+        2.0,
+        1.5,
+        1.5
+      ],
+      "chi2": 87.1,
+      "p": 1.8125745730705963e-15,
+      "mad": 0.059,
+      "nigrini": "não conformidade",
+      "categoria": "PASSAGEM AÉREA - REEMBOLSO",
+      "soma": 668584.77
+    },
+    {
+      "n": 190,
+      "contagem": [
+        32,
+        36,
+        9,
+        33,
+        21,
+        33,
+        12,
+        11,
+        3
+      ],
+      "pct": [
+        16.8,
+        18.9,
+        4.7,
+        17.4,
+        11.1,
+        17.4,
+        6.3,
+        5.8,
+        1.6
+      ],
+      "chi2": 70.7,
+      "p": 3.604441275881765e-12,
+      "mad": 0.0534,
+      "nigrini": "não conformidade",
+      "categoria": "ASSINATURA DE PUBLICAÇÕES",
+      "soma": 64863.48
+    },
+    {
+      "n": 161,
+      "contagem": [
+        52,
+        31,
+        31,
+        16,
+        7,
+        5,
+        9,
+        6,
+        4
+      ],
+      "pct": [
+        32.3,
+        19.3,
+        19.3,
+        9.9,
+        4.3,
+        3.1,
+        5.6,
+        3.7,
+        2.5
+      ],
+      "chi2": 14.3,
+      "p": 0.0754031385680744,
+      "mad": 0.0241,
+      "nigrini": "não conformidade",
+      "categoria": "PASSAGEM AÉREA - RPA",
+      "soma": 229443.19
+    },
+    {
+      "n": 86,
+      "contagem": [
+        14,
+        23,
+        17,
+        10,
+        13,
+        4,
+        2,
+        1,
+        2
+      ],
+      "pct": [
+        16.3,
+        26.7,
+        19.8,
+        11.6,
+        15.1,
+        4.7,
+        2.3,
+        1.2,
+        2.3
+      ],
+      "chi2": 25.0,
+      "p": 0.0015299080659581619,
+      "mad": 0.0568,
+      "nigrini": "não conformidade",
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "soma": 2660942.0
+    },
+    {
+      "n": 23,
+      "contagem": [
+        0,
+        1,
+        0,
+        10,
+        4,
+        7,
+        0,
+        1,
+        0
+      ],
+      "pct": [
+        0.0,
+        4.3,
+        0.0,
+        43.5,
+        17.4,
+        30.4,
+        0.0,
+        4.3,
+        0.0
+      ],
+      "chi2": 63.6,
+      "p": 9.248976848915617e-11,
+      "mad": 0.1489,
+      "nigrini": "não conformidade",
+      "categoria": "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES",
+      "soma": 121000.0
+    },
+    {
+      "n": 10,
+      "contagem": [
+        3,
+        4,
+        2,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pct": [
+        30.0,
+        40.0,
+        20.0,
+        0.0,
+        10.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "chi2": 6.5,
+      "p": 0.5869269822270405,
+      "mad": 0.0711,
+      "nigrini": "não conformidade",
+      "categoria": "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+      "soma": 2608.75
+    },
+    {
+      "n": 5,
+      "contagem": [
+        3,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "pct": [
+        60.0,
+        20.0,
+        0.0,
+        0.0,
+        0.0,
+        20.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "chi2": 5.1,
+      "p": 0.7465459619241146,
+      "mad": 0.1013,
+      "nigrini": "não conformidade",
+      "categoria": "PASSAGEM AÉREA - MISSÃO OFICIAL",
+      "soma": 51854.44
+    },
+    {
+      "n": 1,
+      "contagem": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "pct": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        100.0,
+        0.0,
+        0.0
+      ],
+      "chi2": 16.2,
+      "p": 0.03902093240015862,
+      "mad": 0.2093,
+      "nigrini": "não conformidade",
+      "categoria": "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS.",
+      "soma": 7000.0
+    },
+    {
+      "n": 1,
+      "contagem": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pct": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        100.0
+      ],
+      "chi2": 20.9,
+      "p": 0.007544578437249122,
+      "mad": 0.2121,
+      "nigrini": "não conformidade",
+      "categoria": "PARTICIPAÇÃO EM CURSO, PALESTRA OU EVENTO SIMILAR",
+      "soma": 9000.0
+    }
+  ],
+  "combustivel": {
+    "n": 58375,
+    "pct_comeca_com_2": 41.0,
+    "pct_entre_200_e_299_99": 40.6,
+    "pct_entre_100_e_499_99": 90.4,
+    "mediana": 246.13,
+    "p10": 100.14,
+    "p90": 430.0,
+    "pct_valores_redondos_10": 25.4
+  },
+  "sem_combustivel": {
+    "n": 63476,
+    "contagem": [
+      18860,
+      10735,
+      8582,
+      6164,
+      5786,
+      4542,
+      3004,
+      3231,
+      2572
+    ],
+    "pct": [
+      29.7,
+      16.9,
+      13.5,
+      9.7,
+      9.1,
+      7.2,
+      4.7,
+      5.1,
+      4.1
+    ],
+    "chi2": 372.0,
+    "p": 1.831885545163861e-75,
+    "mad": 0.006,
+    "nigrini": "conformidade aceitável",
+    "mad_99_aleatorio_mesmo_n": 0.0016
+  },
+  "divulgacao": {
+    "n": 8961,
+    "soma": 56788577.65,
+    "pct_multiplo_de_1000": 48.6,
+    "pct_multiplo_de_100": 82.0,
+    "valores_mais_comuns": [
+      [
+        1000.0,
+        788
+      ],
+      [
+        2000.0,
+        558
+      ],
+      [
+        3000.0,
+        489
+      ],
+      [
+        5000.0,
+        427
+      ],
+      [
+        1500.0,
+        422
+      ],
+      [
+        500.0,
+        357
+      ],
+      [
+        10000.0,
+        283
+      ],
+      [
+        6000.0,
+        253
+      ],
+      [
+        2500.0,
+        232
+      ],
+      [
+        15000.0,
+        223
+      ]
+    ]
+  },
+  "por_deputado": {
+    "min_notas": 200,
+    "avaliados": 84,
+    "acima_do_acaso": 78,
+    "top10": [
+      {
+        "id": "3663",
+        "nome": "Reimont",
+        "partido": "PT",
+        "uf": "RJ",
+        "n": 239,
+        "mad": 0.1432,
+        "mad_99_acaso": 0.0254,
+        "acima_do_acaso": true,
+        "digito_em_excesso": 9,
+        "pct_digito": 69.0,
+        "esperado_digito": 4.6,
+        "onde_estao": [
+          [
+            "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | SINPETAXI",
+            107
+          ],
+          [
+            "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | SINDICATO DOS PERMISSIONARIOS DE TAXIS E",
+            50
+          ],
+          [
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMO | CARLEX - TRANSPORTES E SERVICOS LTDA",
+            4
+          ]
+        ]
+      },
+      {
+        "id": "3044",
+        "nome": "Leandre",
+        "partido": "PSD",
+        "uf": "PR",
+        "n": 290,
+        "mad": 0.0887,
+        "mad_99_acaso": 0.0241,
+        "acima_do_acaso": true,
+        "digito_em_excesso": 1,
+        "pct_digito": 70.0,
+        "esperado_digito": 30.1,
+        "onde_estao": [
+          [
+            "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | EPR IGUACU S.A.",
+            47
+          ],
+          [
+            "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | VIA ARAUCARIA CONCESSIONARIA DE RODOVIAS",
+            42
+          ],
+          [
+            "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | CONCESSIONARIA DE RODOVIAS PRVIAS S.A.",
+            18
+          ]
+        ]
+      },
+      {
+        "id": "2356",
+        "nome": "Dimas Fabiano",
+        "partido": "PP",
+        "uf": "MG",
+        "n": 487,
+        "mad": 0.0828,
+        "mad_99_acaso": 0.0183,
+        "acima_do_acaso": true,
+        "digito_em_excesso": 1,
+        "pct_digito": 67.4,
+        "esperado_digito": 30.1,
+        "onde_estao": [
+          [
+            "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | EPR VIAS DO CAFE VARGINHA - MG",
+            42
+          ],
+          [
+            "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | EPR SUL DE MINAS S.A",
+            40
+          ],
+          [
+            "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | EPR VIAS DO CAFE S.A",
+            33
+          ]
+        ]
+      },
+      {
+        "id": "3420",
+        "nome": "Lafayette de Andrada",
+        "partido": "PL",
+        "uf": "MG",
+        "n": 228,
+        "mad": 0.064,
+        "mad_99_acaso": 0.0271,
+        "acima_do_acaso": true,
+        "digito_em_excesso": 7,
+        "pct_digito": 20.6,
+        "esperado_digito": 5.8,
+        "onde_estao": [
+          [
+            "TELEFONIA | CLARO S.A",
+            7
+          ],
+          [
+            "TELEFONIA | CLARO NEXTEL TELECOMUNICAÇÕES S.A",
+            5
+          ],
+          [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIV | CLARO NEXTEL TELECOMUNICAÇÕES S.A",
+            5
+          ]
+        ]
+      },
+      {
+        "id": "2894",
+        "nome": "Helder Salomão",
+        "partido": "PT",
+        "uf": "ES",
+        "n": 209,
+        "mad": 0.0616,
+        "mad_99_acaso": 0.028,
+        "acima_do_acaso": true,
+        "digito_em_excesso": 1,
+        "pct_digito": 47.4,
+        "esperado_digito": 30.1,
+        "onde_estao": [
+          [
+            "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | UBER DO BRASIL TECNOLOGIA LTDA.",
+            35
+          ],
+          [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIV | VIX VITORIA INFORMATICA LTDA",
+            8
+          ],
+          [
+            "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DIS | NORTE PALACE HOTEL LTDA",
+            7
+          ]
+        ]
+      },
+      {
+        "id": "3381",
+        "nome": "Dr. Zacharias Calil",
+        "partido": "MDB",
+        "uf": "GO",
+        "n": 246,
+        "mad": 0.0614,
+        "mad_99_acaso": 0.0257,
+        "acima_do_acaso": true,
+        "digito_em_excesso": 5,
+        "pct_digito": 24.4,
+        "esperado_digito": 7.9,
+        "onde_estao": [
+          [
+            "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENT | LA LUNA PARTICIPACOES",
+            42
+          ],
+          [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIV | FAL IMOBILIÁRIA",
+            6
+          ],
+          [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIV | SANEAGO",
+            4
+          ]
+        ]
+      },
+      {
+        "id": "3626",
+        "nome": "Ana Pimentel",
+        "partido": "PT",
+        "uf": "MG",
+        "n": 273,
+        "mad": 0.0577,
+        "mad_99_acaso": 0.0243,
+        "acima_do_acaso": true,
+        "digito_em_excesso": 5,
+        "pct_digito": 33.3,
+        "esperado_digito": 7.9,
+        "onde_estao": [
+          [
+            "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | VELOE COMPANINHA BRASILEIRA DE SOLUÇOES ",
+            66
+          ],
+          [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIV | TELEFONICA BRASIL S.A.",
+            4
+          ],
+          [
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMO | localiza rent a car",
+            4
+          ]
+        ]
+      },
+      {
+        "id": "3574",
+        "nome": "Thiago Flores",
+        "partido": "UNIÃO",
+        "uf": "RO",
+        "n": 223,
+        "mad": 0.0565,
+        "mad_99_acaso": 0.0267,
+        "acima_do_acaso": true,
+        "digito_em_excesso": 5,
+        "pct_digito": 20.2,
+        "esperado_digito": 7.9,
+        "onde_estao": [
+          [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIV | ÁGUAS DE ARIQUEMES SANEAMENTO",
+            5
+          ],
+          [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIV | AGUAS DE ARIQUEMES SANEAMENTO SPE S/A",
+            5
+          ],
+          [
+            "TELEFONIA | TELEFONICA BRASIL S.A.",
+            5
+          ]
+        ]
+      },
+      {
+        "id": "1557",
+        "nome": "Chico Alencar",
+        "partido": "PSOL",
+        "uf": "RJ",
+        "n": 223,
+        "mad": 0.0551,
+        "mad_99_acaso": 0.0267,
+        "acima_do_acaso": true,
+        "digito_em_excesso": 2,
+        "pct_digito": 29.6,
+        "esperado_digito": 17.6,
+        "onde_estao": [
+          [
+            "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | UBER DO BRASIL TECNOLOGIA LTDA.",
+            13
+          ],
+          [
+            "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENT | PAULO R DOS SANTOS ROCHA ALIMENTOS",
+            11
+          ],
+          [
+            "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENT | SERVICO NACIONAL DE APREND. COMERCIAL",
+            9
+          ]
+        ]
+      },
+      {
+        "id": "3582",
+        "nome": "Rosângela Reis",
+        "partido": "PL",
+        "uf": "MG",
+        "n": 229,
+        "mad": 0.0551,
+        "mad_99_acaso": 0.0268,
+        "acima_do_acaso": true,
+        "digito_em_excesso": 1,
+        "pct_digito": 46.7,
+        "esperado_digito": 30.1,
+        "onde_estao": [
+          [
+            "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | CONCESSIONARIA DE RODOVIA NOVA 381 S.A.",
+            67
+          ],
+          [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIV | CONDOMINIO DO EDIFICIO CARLA",
+            10
+          ],
+          [
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIV | FILIBRAS COMERCIAL IMPORTACAO E EXPORTAC",
+            9
+          ]
+        ]
+      }
+    ]
+  },
+  "casos": {
+    "Lêda Borges": {
+      "notas_2026": 162,
+      "notas_2026_sem_combustivel_ge10": 49,
+      "divulgacao_outubro": 137450.0,
+      "notas_divulgacao_outubro": [
+        {
+          "valor": 5000.0,
+          "fornecedor": "CARLOS AUGUSTO DE ABREU GUGLIELMELI 55917569134",
+          "cnpj": "268.190.180/0010-3",
+          "emissao": "2026-10-22",
+          "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3579/2026/8168459.pdf"
+        },
+        {
+          "valor": 120450.0,
+          "fornecedor": "CONTINENTAL EDITORA E GRAFICA LTDA",
+          "cnpj": "249.291.430/0014-0",
+          "emissao": "2026-10-26",
+          "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3579/2026/8169029.pdf"
+        },
+        {
+          "valor": 12000.0,
+          "fornecedor": "MSG SOLUCOES LTDA",
+          "cnpj": "547.659.960/0015-5",
+          "emissao": "2026-10-26",
+          "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3579/2026/8168744.pdf"
+        }
+      ],
+      "divulgacao_jan_mai_media_mensal": 20500.0
+    },
+    "Antônia Lúcia": {
+      "notas_2026": 86,
+      "notas_2026_sem_combustivel_ge10": 17,
+      "divulgacao_outubro": 103000.0,
+      "notas_divulgacao_outubro": [
+        {
+          "valor": 103000.0,
+          "fornecedor": "E.O.PEREIRA",
+          "cnpj": "236.578.190/0012-1",
+          "emissao": "2026-10-06",
+          "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2258/2026/8162426.pdf"
+        }
+      ],
+      "divulgacao_jan_mai_media_mensal": 26899.7
+    }
+  }
+}

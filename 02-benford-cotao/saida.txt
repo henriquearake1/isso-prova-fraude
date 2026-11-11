@@ -1,0 +1,25 @@
+Arquivo Ano-2026.csv.zip: 123,573 notas, meses [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], 577 parlamentares/lideranças
+Benford esperado (%):      [30.1, 17.6, 12.5, 9.7, 7.9, 6.7, 5.8, 5.1, 4.6]
+Base inteira  n=121,851: [28.0, 28.5, 15.6, 8.7, 6.7, 4.2, 2.9, 3.1, 2.5] | MAD 0.0309 (não conformidade)
+Combustível   n=58,375: começa com 2 em 41.0% | entre R$ 200 e 299 em 40.6% | mediana R$ 246.13
+Sem combustível n=63,476: [29.7, 16.9, 13.5, 9.7, 9.1, 7.2, 4.7, 5.1, 4.1] | MAD 0.006 (conformidade aceitável) | acaso p99 0.0016
+  COMBUSTÍVEIS E LUBRIFICANTES.                 n=58,375 MAD 0.0638 não conformidade
+  MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE n=14,818 MAD 0.0172 não conformidade
+  SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO     n=10,601 MAD 0.0229 não conformidade
+  DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.          n= 8,961 MAD 0.0182 não conformidade
+  HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO n= 8,702 MAD 0.0349 não conformidade
+  FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR    n= 6,271 MAD 0.0322 não conformidade
+  TELEFONIA                                     n= 6,159 MAD 0.0194 não conformidade
+  LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES n= 5,561 MAD 0.0430 não conformidade
+  PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS   n=   560 MAD 0.0348 não conformidade
+  COMPLEMENTAÇÃO DO AUXÍLIO-MORADIA             n=   550 MAD 0.0558 não conformidade
+Deputados com 200+ notas sem combustível: 84; acima do acaso: 78
+  Reimont (PT-RJ) n=239 MAD 0.1432 (acaso 0.0254) dígito 9: 69.0% vs 4.6% -> ['SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | SINPETAXI', 107]
+  Leandre (PSD-PR) n=290 MAD 0.0887 (acaso 0.0241) dígito 1: 70.0% vs 30.1% -> ['SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | EPR IGUACU S.A.', 47]
+  Dimas Fabiano (PP-MG) n=487 MAD 0.0828 (acaso 0.0183) dígito 1: 67.4% vs 30.1% -> ['SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | EPR VIAS DO CAFE VARGINHA - MG', 42]
+  Lafayette de Andrada (PL-MG) n=228 MAD 0.064 (acaso 0.0271) dígito 7: 20.6% vs 5.8% -> ['TELEFONIA | CLARO S.A', 7]
+  Helder Salomão (PT-ES) n=209 MAD 0.0616 (acaso 0.028) dígito 1: 47.4% vs 30.1% -> ['SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENT | UBER DO BRASIL TECNOLOGIA LTDA.', 35]
+Lêda Borges: divulgação em outubro R$ 137,450.00; notas no ano 162
+Antônia Lúcia: divulgação em outubro R$ 103,000.00; notas no ano 86
+
+Resultado salvo em resultado_cotao.json
